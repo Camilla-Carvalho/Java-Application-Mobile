@@ -1,4 +1,4 @@
 # Aplicativos java 
 
 <br>
-Aplicações desenvolvidas em Android Studio 📲
+Aplicações desenvolvidas em Android Studio 📲✨
