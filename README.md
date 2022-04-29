@@ -1,1 +1,4 @@
-# Aplicativos java desenvolvidos em Android Studio
+# Aplicativos java 
+
+<br>
+Aplicações desenvolvidos em Android Studio
