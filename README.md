@@ -1,7 +1,7 @@
 # Aplicativos java 
 
 <br>
-Aplicações desenvolvidas em Android Studio 📲✨<br>
+Aplicações desenvolvidas em Android Studio 📲✨<br><br>
 Repositório destinado a compartilhar meus estudos em desenvolvimento de aplicativo na linguagem java por meio da ferramenta Android Studio.
 
 <br><br><br>
