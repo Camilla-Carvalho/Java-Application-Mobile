@@ -9,5 +9,5 @@ Repositório destinado a compartilhar meus estudos em desenvolvimento de aplicat
 <br>
 
 !! ATENÇÃO !! Este repositório pode conter código incompleto devido estudos simultâneos em outras disciplinas de TI <br>
-Os códigos serão versionados e trabalhados conforme
+Os códigos serão versionados e trabalhados conforme o tempo e disponibilidade.
 
